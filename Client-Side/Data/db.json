@@ -1,0 +1,22 @@
+{
+  "users": [
+   
+    
+    {
+      "email": "new555@gmail.com",
+      "password": "$2a$10$rZKM8ulU5RI.llPbobYv.evCTYs4FrhNnnom4bDfxi08P4XLnoU/2",
+      "name": "name",
+      "id": 16
+    }
+   
+  ],
+  "posts": [
+    
+      {
+      "title": "new post",
+      "description": "Hello from post one",
+      "image": "/1.jpg",
+      "id": 6
+    }
+  ]
+}

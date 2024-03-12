@@ -1,0 +1,12 @@
+{
+  
+  "posts": [
+    
+    {
+    "title": "new post",
+    "description": "Hello from post one",
+    "image": "/1.jpg",
+    "id": 6
+  }
+]
+}
